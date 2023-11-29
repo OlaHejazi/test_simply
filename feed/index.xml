@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>minimal</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Nov 2023 05:16:12 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>test minimal</title>
+		<link>./../2023/11/29/test-minimal/index.html</link>
+					<comments>./../2023/11/29/test-minimal/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[hejazo1]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2023 05:16:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=6</guid>
+
+					<description><![CDATA[test post minimal]]></description>
+										<content:encoded><![CDATA[
+<p>test post minimal</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/11/29/test-minimal/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../2023/11/28/hello-world/index.html</link>
+					<comments>./../2023/11/28/hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[hejazo1]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 14:11:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/11/28/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
